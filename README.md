@@ -12,3 +12,6 @@ An Open-Source basic calculator for Risk and Position Sizing
 ### 4. Modularize functions: 
 - Consider modularizing functions into separate files or classes to improve code organization and maintainability. Create a Ticker class for ticker-related operations and a separate module for input validation and error handling.
   - *Namely:  Create a "Ticker" class for ticker-related operations and a separate module for input validation and error handling.*
+### 5. Code orginization:
+- Overall code re-orginization, where needed.
+  -*Namely:  Move ticker mapping dictionary inside main function*  
