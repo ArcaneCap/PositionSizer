@@ -15,3 +15,5 @@ An Open-Source basic calculator for Risk and Position Sizing
 ### 5. Code orginization:
 - Overall code re-orginization, where needed.
   - *Namely:  Move ticker mapping dictionary inside main function*  
+### 6. UI:
+- Create a basic ui using Tkinter
